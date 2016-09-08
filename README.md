@@ -16,11 +16,11 @@
 
 CARD VIEW ->
 
-![alt text](screenshots/img7.png "Main Activity")               ![alt text](screenshots/img8.png "Main Activity") 
+![alt text](screenshots/img5.png "Main Activity")               ![alt text](screenshots/img7.png "Main Activity") 
 
 
 
-![alt text](screenshots/img9.png "Main Activity") 
+![alt text](screenshots/img8.png "Main Activity")             ![alt text](screenshots/img9.png "Main Activity") 
 
 
 ![alt text](screenshots/gif.gif "Main Activity") 
