@@ -16,7 +16,9 @@
 
 CARD VIEW ->
 
-![alt text](screenshots/img5.png "Main Activity")               ![alt text](screenshots/img7.png "Main Activity") 
+![alt text](screenshots/img5.png "Main Activity")      
+
+![alt text](screenshots/img7.png "Main Activity") 
 
 
 
