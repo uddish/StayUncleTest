@@ -1,5 +1,7 @@
 # StayUncleTest
 
+This project is a protoype for a startup called 'SatyUncle'.
+
 
 
 
