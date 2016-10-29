@@ -18,9 +18,10 @@ public class Hotel_Details_POJO {
         Boolean ac;
         Boolean break;
         Boolean lunch;
+        Boolean dinner;
 
         public HotelDetails(int imageId, String hotelName, String address,
-                            Boolean wifi, Boolean food, Boolean parking, Boolean swimming, int rent,Boolean break,Boolean lunch) {
+                            Boolean wifi, Boolean food, Boolean parking, Boolean swimming, int rent,Boolean break,Boolean lunch,Boolean dinner) {
             this.hotelName = hotelName;
             this.address = address;
             this.imageId = imageId;
@@ -31,6 +32,7 @@ public class Hotel_Details_POJO {
             this.rent = rent;
             this.break=break;
             this.lunch=lunch;
+            this.dinner=dinner;
         }
 
 
@@ -44,6 +46,10 @@ public class Hotel_Details_POJO {
         
         public Boolean getLunch() {
             return lunch;
+        }
+        
+        public Boolean getDinner() {
+            return dinner;
         }
 
         public String getAddress() {
