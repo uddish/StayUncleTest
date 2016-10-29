@@ -41,6 +41,10 @@ public class Hotel_Details_POJO {
          public Boolean getBreakfast() {
             return break;
         }
+        
+        public Boolean getLunch() {
+            return lunch;
+        }
 
         public String getAddress() {
             return address;
