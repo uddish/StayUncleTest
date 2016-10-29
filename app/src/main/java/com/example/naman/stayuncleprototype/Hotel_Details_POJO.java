@@ -17,9 +17,10 @@ public class Hotel_Details_POJO {
         Boolean swimming;
         Boolean ac;
         Boolean break;
+        Boolean lunch;
 
         public HotelDetails(int imageId, String hotelName, String address,
-                            Boolean wifi, Boolean food, Boolean parking, Boolean swimming, int rent,Boolean break) {
+                            Boolean wifi, Boolean food, Boolean parking, Boolean swimming, int rent,Boolean break,Boolean lunch) {
             this.hotelName = hotelName;
             this.address = address;
             this.imageId = imageId;
@@ -29,6 +30,7 @@ public class Hotel_Details_POJO {
             this.swimming = swimming;
             this.rent = rent;
             this.break=break;
+            this.lunch=lunch;
         }
 
 
